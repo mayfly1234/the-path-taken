@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\DELL\Desktop\课程管理系统\ClassSystem\list.h(57): warning C4715: “ListSeach”: 不是所有的控件路径都返回值
+C:\Users\DELL\Desktop\课程管理系统\ClassSystem\list.h(74): warning C4715: “ListDel”: 不是所有的控件路径都返回值
+C:\Users\DELL\Desktop\课程管理系统\ClassSystem\list.h(122): warning C4715: “ListVisit”: 不是所有的控件路径都返回值
+  ClassSystem.vcxproj -> C:\Users\DELL\Desktop\课程管理系统\ClassSystem\x64\Debug\ClassSystem.exe
